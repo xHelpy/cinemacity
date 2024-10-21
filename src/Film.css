@@ -1,0 +1,48 @@
+.FilmTab {
+    width: 60%;
+    transform: translateX(25%);
+    display: flex;
+    margin: 15px;
+    border-bottom: 3px solid lightgray;
+    padding: 5px;
+}
+
+.FilmTab img {
+    width: 200px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.FilmData {
+    margin-left: 3%;
+}
+
+.Tags {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+
+}
+
+btn {
+    border: 1px solid darkgray;
+    margin-top: 2%;
+    margin-right: 2%;
+    border-radius: 100%;
+    background-color: lightgray;
+    width: 40px;
+    height: 40px;
+    align-content: center;
+
+}
+
+
+
+.Hours {
+    border-radius: 10px;
+    justify-content: center;
+    font-weight: 500;
+    padding: 3px;
+    margin: 5px;
+    background-color: #ff7300;
+}
