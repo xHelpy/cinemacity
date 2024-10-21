@@ -12,20 +12,20 @@ const Top = (props) =>
                 <button className={"localization"}>
                     <img className={"locationPicker"}
                          src={"https://www.cinema-city.pl/xmedia/img/10103/locationpicker-map-marker.svg"}/>
-                    <a className={"locationText"}>wybierz swoje kino</a>
+                    <a className={"locationText"}>Wybierz swoje kino</a>
                 </button>
 
                 <button className={"login"}>
                     <img className={"loginIcon"} src={"https://www.cinema-city.pl/xmedia/img/10103/user-icon.svg"}/>
 
 
-                    <a className={"loginText"}>Zaloguj</a>
+                    <a className={"loginText"}>Logowanie</a>
                 </button>
                 <button className={"register"}>
                     <img className={"registerIcon"}/>
 
 
-                    <a className={"registerText"}>Zarejestruj</a>
+                    <a className={"registerText"}>Rejestracja</a>
                 </button>
                 <input type="text" placeholder={"Szukaj..."} id={"text"} className={"search"}>
 
