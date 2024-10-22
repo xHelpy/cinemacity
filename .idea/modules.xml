@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../cinemacity.iml" filepath="$PROJECT_DIR$/../cinemacity.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../cinemacity3.iml" filepath="$PROJECT_DIR$/../cinemacity3.iml" />
+>>>>>>> origin/kuba2
     </modules>
   </component>
 </project>
