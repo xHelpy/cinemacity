@@ -1,10 +1,17 @@
 import Film from "./Film";
 import './App.css';
+import Top from "./top"
 
 function App() {
   return (
     <div className="App">
+
         <div className="Top">
+
+
+    <Top></Top>
+
+
 
         </div>
         <div className="LinkButtons">
