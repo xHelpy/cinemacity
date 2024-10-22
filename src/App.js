@@ -1,5 +1,6 @@
 import Film from "./Film";
 import './App.css';
+import Buttons from './buttons'
 import Top from "./top"
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -31,7 +32,7 @@ function App() {
 
         </div>
         <div className="LinkButtons">
-
+            <Buttons></Buttons>
         </div>
         <div className="MainData">
             <div className="MainTop">
@@ -122,14 +123,10 @@ function App() {
                       Hours="13:00 | 15:45 | 18:45" Language="EN (NAP: PL)"></Film>
                 <Film Source="1.png" Title="Uśmiechnij się 2" Tag="Horror" Time="127 min" Type="2D" Hours="13:00 | 14:00 | 15:00" Language="EN (NAP: PL)"></Film>
             </div>
-
         </div>
     </div>
   );
 }
 
 export default App;
-
-
-
 
