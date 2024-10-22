@@ -56,11 +56,11 @@ function App() {
             <div className="Films">
                 <Film Source="1.png" Title="Uśmiechnij się 2" Tag="Horror" Time="127 min" Type="2D"
                       Hours="13:00 | 15:45 | 18:45" Language="EN (NAP: PL)"></Film>
-                <Film Source="1.png" Title="Uśmiechnij się 2" Tag="Horror" Time="127 min" Type="2D" Hours="13:00 | 15:45 | 18:45" Language="EN (NAP: PL)"></Film>
+                <Film Source="1.png" Title="Uśmiechnij się 2" Tag="Horror" Time="127 min" Type="2D" Hours="13:00 | 14:00 | 15:00" Language="EN (NAP: PL)"></Film>
             </div>
 
         </div>
-    </div>
+    </div>``
   );
 }
 
